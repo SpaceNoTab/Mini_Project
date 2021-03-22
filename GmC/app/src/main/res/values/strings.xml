@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string-array name="Blood_Group">
+        <item>"O+"</item>
+        <item>"O-"</item>
+        <item>"A+"</item>
+        <item>"B+"</item>
+        <item>"AB+"</item>
+        <item>"B-"</item>
+        <item>"AB-"</item>
+    </string-array>
+    <string name="title_activity_profile">Profile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile_login">ProfileLogin</string>
+    <string name="title_activity_profile_log">ProfileLog</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

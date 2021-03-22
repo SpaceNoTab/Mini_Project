@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/action_update"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Update Profile" />
+
+        <item
+            android:id="@+id/see_donor"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="See Donor List" />
+        <item
+            android:id="@+id/see_request"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="See Request List" />
+        <item
+            android:id="@+id/action_contact"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Contact Us" />
+
+    </group>
+
+
+</menu>
